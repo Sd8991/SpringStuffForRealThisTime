@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/sjors/Desktop/Test-master2/SpringStuff/SpringStuff/Content/DatPic.jpg</SourceFile>
+  <SourceFile>C:/Users/sjors/Source/Repos/SpringStuffForRealThisTime/SpringStuff/SpringStuff/Content/DatPic.jpg</SourceFile>
   <SourceTime>2018-03-14T15:34:32.5290971+01:00</SourceTime>
-  <DestFile>C:/Users/sjors/Desktop/Test-master2/SpringStuff/SpringStuff/Content/bin/Windows/DatPic.xnb</DestFile>
-  <DestTime>2018-03-14T15:36:01.7201065+01:00</DestTime>
+  <DestFile>C:/Users/sjors/Source/Repos/SpringStuffForRealThisTime/SpringStuff/SpringStuff/Content/bin/Windows/DatPic.xnb</DestFile>
+  <DestTime>2018-03-15T11:16:58.6417266+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

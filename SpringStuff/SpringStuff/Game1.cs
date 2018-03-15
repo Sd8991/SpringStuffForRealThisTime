@@ -110,9 +110,9 @@ public class Game1 : Game
         foreach (Rectangle r in allRectangle)
             spriteBatch.Draw(SpringPic, r, Color.AntiqueWhite);
         foreach (Vector2 v in e.points.Keys)
-            spriteBatch.Draw(DotPic, new Vector2((float)(v.X + 0.5*e.s.radius), v.Y), new Color(e.points[v], (int)(128-0.5*e.points[v]), e.points[v]));
+            spriteBatch.Draw(DotPic, new Vector2((float)(v.X + 0.5*e.s.radius), v.Y), new Color(200, Math.Min(e.points[v], 200), Math.Min(e.points[v], 200)));
         foreach (Vector2 v in f.points.Keys)
-            spriteBatch.Draw(DotPic, new Vector2((float)(v.X + 0.5 * f.s.radius), v.Y), new Color(f.points[v], (int)(128 - 0.5 * f.points[v]), f.points[v]));
+            spriteBatch.Draw(DotPic, new Vector2((float)(v.X + 0.5 * f.s.radius), v.Y), new Color(200, Math.Min(f.points[v], 200), Math.Min(f.points[v], 200)));
         spriteBatch.End();
         base.Draw(gameTime);
     }
