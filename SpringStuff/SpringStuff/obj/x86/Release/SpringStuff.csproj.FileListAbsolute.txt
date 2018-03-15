@@ -1,0 +1,55 @@
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\Content\Spring.png
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\Content\Spring_Mk_II.png
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\Content\DatPic.xnb
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SpringStuff.exe
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SpringStuff.pdb
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.RawInput.dll
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.RawInput.xml
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\obj\x86\Release\SpringStuff.exe
+C:\Users\Rickkerdt\Documents\OMVG Practicum\SpringStuff\SpringStuff\obj\x86\Release\SpringStuff.pdb
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\Content\Spring.png
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\Content\Spring_Mk_II.png
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\Content\DatPic.xnb
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SpringStuff.exe
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SpringStuff.pdb
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.RawInput.dll
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.RawInput.xml
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\obj\x86\Release\SpringStuff.exe
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\obj\x86\Release\SpringStuff.pdb
+C:\Users\rickg\Desktop\School\SpringModulation\SpringStuff\SpringStuff\obj\x86\Release\SpringStuff.csprojResolveAssemblyReference.cache
