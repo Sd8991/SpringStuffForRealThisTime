@@ -11,7 +11,7 @@ class Spring
     public double restLength, newLength, height, stiffness, radius, move, area, innerArea, length, mass;
     public double criticDamp, actualDamp, dampFactor;
     public double Fgravity, Fspring, Fres, acceleration, velocity;
-    public double stretch = 0.0f;
+    public double stretch = 0.0f, angularAcc = 0.0f, angularVel = 0.0f;
 
     public Spring(Vector2 beginPoint, Vector2 endPoint, int nrOfWinding, float radius, float stretch, float materialThickness, float mass, float dampFactor, float displacmentThingy = 69000, float move = 0)
     {
@@ -36,6 +36,7 @@ class Spring
         this.Fgravity = this.mass * 9.81;
         this.Fspring = 0;
         this.Fres = 0;
+        angularAcc = 0;
     }
 
     public void SLS(GameTime gameTime, float mass)//Simple Liniear Spring using Mathematics

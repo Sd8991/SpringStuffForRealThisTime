@@ -28,16 +28,16 @@ public class Game1 : Game
 
     protected override void Initialize()
     {
-        allSpring = new Spring[3];
-        allRectangle = new Rectangle[3];
-        s1 = new Spring(new Vector2(100, 0), new Vector2(100, 150), 100, 20, 0.0f, 1f, 5, 0f);
-        allSpring[0] = s1;
+        allSpring = new Spring[2];
+        allRectangle = new Rectangle[2];
+        s1 = new Spring(new Vector2(100, 0), new Vector2(200, 100), 100, 20, 0.0f, 1f, 5, 0f);
+        //allSpring[0] = s1;
         s2 = new Spring(new Vector2(100, 150), new Vector2(100, 300), 100, 20, 0.0f, 0.5f, 5, 0f);
-        allSpring[1] = s2;
+        allSpring[0] = s2;
         s3 = new Spring(new Vector2(200, 0), new Vector2(200, 300), 200, 20, 0.0f, 1f, 5, 0f);
-        allSpring[2] = s3;
+        allSpring[1] = s3;
         sO = new SpringOperations();
-        e = new EndPointTracker(s3, new Dictionary<Vector2, int>());
+        e = new EndPointTracker(s1, new Dictionary<Vector2, int>());
         f = new EndPointTracker(s2, new Dictionary<Vector2, int>());
         base.Initialize();
     }
@@ -68,7 +68,9 @@ public class Game1 : Game
             //s.SLSMkII(gameTime);
         }
         s3.SLSMkII(thyme);
-        sO.MultiSpring(thyme, s1, s2);
+        s2.SLSMkII(thyme);
+        sO.SwingSpring(thyme, s1);
+        //sO.MultiSpring(thyme, s1, s2);
         e.Track();
         f.Track();
 
@@ -85,8 +87,8 @@ public class Game1 : Game
                 r = new Rectangle((int)allSpring[i].beginPointX, (int)allSpring[i].beginPointY, (int)allSpring[i].radius, (int)(allSpring[i].stretch + allSpring[i].restLength));
                 allRectangle[i] = r;
             }
-            r = new Rectangle((int)allSpring[2].beginPointX, (int)allSpring[2].beginPointY, (int)allSpring[2].radius, (int)(allSpring[2].stretch + allSpring[2].restLength));
-            allRectangle[2] = r;
+            //r = new Rectangle((int)allSpring[2].beginPointX, (int)allSpring[2].beginPointY, (int)allSpring[2].radius, (int)(allSpring[2].stretch + allSpring[2].restLength));
+            //allRectangle[2] = r;
         }
         if(gameTime.TotalGameTime.Milliseconds%500 == 0)
         {
@@ -108,7 +110,8 @@ public class Game1 : Game
         // TODO: Add your drawing code here
         spriteBatch.Begin();
         foreach (Rectangle r in allRectangle)
-            spriteBatch.Draw(SpringPic, r, Color.AntiqueWhite);
+            spriteBatch.Draw(SpringPic, r, Color.White);
+        spriteBatch.Draw(SpringPic, new Vector2((float)s1.endPointX, (float)s1.endPointY), Color.White);
         foreach (Vector2 v in e.points.Keys)
             spriteBatch.Draw(DotPic, new Vector2((float)(v.X + 0.5*e.s.radius), v.Y), new Color(e.points[v], (int)(128-0.5*e.points[v]), e.points[v]));
         foreach (Vector2 v in f.points.Keys)

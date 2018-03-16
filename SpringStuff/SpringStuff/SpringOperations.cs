@@ -35,4 +35,15 @@ class SpringOperations
         s1.stretch = s1.endPointY - s1.restLength;
         s2.stretch = s2.endPointY - s1.endPointY - s2.restLength;
     }
+
+    public void SwingSpring(double thyme, Spring s, float gravity = 9.81f)
+    {
+        s.stretch = Math.Sqrt(Math.Pow((s.endPointX - s.beginPointX), 2) + Math.Pow((s.endPointY - s.beginPointY), 2)) - s.restLength;
+        double angle = Math.Atan2((s.endPointX - s.beginPointX), (s.endPointY - s.beginPointY));
+        s.angularAcc = -(gravity / (s.restLength + s.stretch)) * Math.Sin(angle);
+        s.angularVel = s.angularVel + s.angularAcc * thyme;
+        angle = angle + s.angularVel * thyme;
+        s.endPointX = s.endPointX + Math.Cos(angle);
+        s.endPointY = s.endPointY + Math.Sin(angle);
+    }
 }
