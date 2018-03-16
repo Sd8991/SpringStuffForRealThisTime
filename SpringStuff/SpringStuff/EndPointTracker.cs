@@ -24,7 +24,7 @@ class EndPointTracker
         foreach (Vector2 p in points.Keys.ToList())
         {            
             points[p]++;
-            if (points[p] > 50) toDelete.Add(p);
+            if (points[p] > 500) toDelete.Add(p);
         }
         foreach (Vector2 d in toDelete)
             points.Remove(d);        

@@ -4,7 +4,12 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
+<<<<<<< HEAD
     <File>C:/Users/Rickkerdt/Documents/SSFRTT/SpringStuff/SpringStuff/Content/DatPic.jpg</File>
     <File>C:/Users/Rickkerdt/Documents/SSFRTT/SpringStuff/SpringStuff/Content/DotBoi.png</File>
+=======
+    <File>C:/Users/sjors/Source/Repos/SpringStuffForRealThisTime/SpringStuff/SpringStuff/Content/DatPic.jpg</File>
+    <File>C:/Users/sjors/Source/Repos/SpringStuffForRealThisTime/SpringStuff/SpringStuff/Content/DotBoi.png</File>
+>>>>>>> 40ec2a1c332c75106786db49c3c4d5aeac9597c9
   </SourceFiles>
 </SourceFileCollection>
